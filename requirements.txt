@@ -1,4 +1,3 @@
-pickle==4.0
 faiss-cpu==1.7.4
 find-job-titles==0.7.0
 nltk==3.8.1
